@@ -11,3 +11,4 @@ Bad solution,
 but very populare is set adjustPan in manifest
 
 Good solution 
+View.descendantFocusability = ViewGroup.FOCUS_BEFORE_DESCENDANTS
